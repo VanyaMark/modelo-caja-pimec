@@ -20,6 +20,8 @@ Estos ejercicios potencian el concepto clave del [modelo de caja, o box model](h
 
 ### Dijkstra
 
+**Importante**: Es suficiente con que cada bloque quede centrado, a la izquierda o a la derecha. No se va a ver exactamente igual que en la solución, debido a vuestro navegador Web, resolución o forma de abordar el problema. Estará bien igualmente mientras en resultado sea aproximado.
+
 - fondo: #267352
 - marrón fuerte: #802400
 - naranja: #b37b33
