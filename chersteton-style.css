@@ -1,0 +1,51 @@
+body {
+    background-color: #997366;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: white;
+    padding-left: 5px;
+    padding-top: 0;
+}
+
+.contenido {
+    margin: 0 15%;
+}
+
+.introduction {
+    padding: 0px 6px;
+    margin-bottom: 10px;
+}
+
+.introduction div {
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+.info {
+    border: white solid 1px;
+    padding: 5px;
+
+}
+
+.info-section {
+    padding-bottom: 6px;
+}
+
+.beige {
+    background-color: #998680;
+}
+
+.interior-div-size {
+    width: 500px;
+    margin: 10px auto;
+    border: rgb(64, 45, 38) solid 7px;
+    padding: 6px;
+    color: white;
+    line-height: 1.5em;
+}
